@@ -38,6 +38,16 @@ coverage/
 .nyc_output/
 *.lcov
 
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+
 # Misc
 *.tmp
 *.bak
