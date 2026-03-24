@@ -91,11 +91,6 @@ rpds-py==0.29.0
 scikit-learn==1.8.0
 scipy==1.17.1
 seaborn==0.13.2
-<<<<<<< HEAD
-Send2Trash==1.8.3
-setuptools==80.9.0
-=======
->>>>>>> 317e079 (data cleaning)
 six==1.17.0
 smmap==5.0.2
 sniffio==1.3.1
